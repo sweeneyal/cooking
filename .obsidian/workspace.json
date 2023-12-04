@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "b6faf0eb16a0dd89",
+    "type": "split",
+    "children": [
+      {
+        "id": "17240d35bbe787df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfbb0705fe44f3b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba336887668ab33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work nights/Sausage and Vegetable Medley.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca2dc1adf9fdd802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work nights/Nutty Tortellini.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "157e7f8348da97d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9da825327e25ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work nights/Marry Me Chicken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a74a42e4729feeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e5465df763b8b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seasonal/Seasonal Fruits and Veggies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcf8301c6e47c0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "breakfast/Protein Crepes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6771879a6a9fcc73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work nights/Simple Indian Curry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31bc0a4571aee7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f98d6519041f9d90",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3492443d79955306",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e2edc8a77634c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "373a3a1c732bd278",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d9f555ce693f8f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c04d3b54cd00823c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d3a76fcc4965ed4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a67313d29c64d792",
+    "type": "split",
+    "children": [
+      {
+        "id": "de656904f75a69b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b38353d8d9d0363c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recipes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1026f7dacc4f5e06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Recipes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d97a5c659cea4160",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3162a0bfdfa458b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recipes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f98d6519041f9d90",
+  "lastOpenFiles": [
+    "work nights/Simple Indian Curry.md",
+    "breakfast/Protein Crepes.md",
+    "work nights/Chicken Burrito Bowl.md",
+    "Veggie Scramble and Toast.md",
+    "seasonal/Seasonal Fruits and Veggies.md",
+    "work nights/Korean Stir Fry.md",
+    "work nights/Fast Oven Burger Sliders.md",
+    "work nights/Cajun Sausage Pasta.md",
+    "Recipes.md",
+    "work nights/Penne Alla Vodka.md",
+    "work nights/Marry Me Chicken.md",
+    "work nights/Nutty Tortellini.md",
+    "work nights/Thai Basil Beef Stir Fry.md",
+    "dinner/Beef Tenderloin and Grits.md",
+    "seasonal",
+    "work nights/Baked Gnocchi - Sausage Based.md",
+    "work nights/Baked Gnocchi - Broccoli Based.md",
+    "work nights/Honey Garlic Chicken and Rice.md",
+    "work nights/Marinara Chicken and Polenta.md",
+    "work nights/Scrambled Eggs and Fruit Salad.md",
+    "work nights/Sausage and Vegetable Medley.md",
+    "work nights/Bagel Pizza.md",
+    "Untitled.canvas",
+    "breakfast/Breakfast Casserole.md"
+  ]
+}
