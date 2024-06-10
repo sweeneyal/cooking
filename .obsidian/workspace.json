@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work nights/Sausage and Vegetable Medley.md",
+                "file": "dinner/Sausage and Vegetable Medley.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work nights/Nutty Tortellini.md",
+                "file": "dinner/Nutty Tortellini.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work nights/Marry Me Chicken.md",
+                "file": "dinner/Marry Me Chicken.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,18 +74,6 @@
               "type": "markdown",
               "state": {
                 "file": "Recipes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e5465df763b8b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "seasonal/Seasonal Fruits and Veggies.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work nights/Simple Indian Curry.md",
+                "file": "dinner/Simple Indian Curry.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,9 +124,33 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "2a1c62353bbcb622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b727105b1c37604a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dinner/Baked Gnocchi - Broccoli Based.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -212,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes.md",
+                "file": "dinner/Baked Gnocchi - Broccoli Based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes.md",
+                "file": "dinner/Baked Gnocchi - Broccoli Based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes.md"
+                "file": "dinner/Baked Gnocchi - Broccoli Based.md"
               }
             }
           }
@@ -273,31 +285,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f98d6519041f9d90",
+  "active": "373a3a1c732bd278",
   "lastOpenFiles": [
-    "work nights/Simple Indian Curry.md",
-    "breakfast/Protein Crepes.md",
-    "work nights/Chicken Burrito Bowl.md",
-    "Veggie Scramble and Toast.md",
-    "seasonal/Seasonal Fruits and Veggies.md",
-    "work nights/Korean Stir Fry.md",
-    "work nights/Fast Oven Burger Sliders.md",
-    "work nights/Cajun Sausage Pasta.md",
+    "Untitled",
     "Recipes.md",
-    "work nights/Penne Alla Vodka.md",
-    "work nights/Marry Me Chicken.md",
-    "work nights/Nutty Tortellini.md",
-    "work nights/Thai Basil Beef Stir Fry.md",
+    "dinner/Bagel Pizza.md",
+    "dinner/Jambalaya.md",
+    "seasonings/Homemade Cajun 2 Step.md",
+    "seasonings",
+    "dinner/Korean Stir Fry.md",
+    "seasonal/Seasonal Fruits and Veggies.md",
+    "python/whats4dinner/mealplan/MealPlan.py",
+    "python/whats4dinner/mealplan",
+    "python/whats4dinner/whats4dinner.py",
+    "python/whats4dinner",
+    "python/whats4dinner.py",
+    "python/menu.py",
+    "dinner/Honey Garlic Chicken and Rice.md",
+    "dinner/Fast Oven Burger Sliders.md",
+    "dinner/Chicken Burrito Bowl.md",
+    "dinner/Cajun Sausage Pasta.md",
+    "breakfast/Breakfast Casserole.md",
+    "dinner/slow cooker/Slow Cooker Chicken Thighs.md",
+    "python/generate_menu.py",
+    "python",
     "dinner/Beef Tenderloin and Grits.md",
-    "seasonal",
-    "work nights/Baked Gnocchi - Sausage Based.md",
-    "work nights/Baked Gnocchi - Broccoli Based.md",
-    "work nights/Honey Garlic Chicken and Rice.md",
-    "work nights/Marinara Chicken and Polenta.md",
-    "work nights/Scrambled Eggs and Fruit Salad.md",
-    "work nights/Sausage and Vegetable Medley.md",
-    "work nights/Bagel Pizza.md",
-    "Untitled.canvas",
-    "breakfast/Breakfast Casserole.md"
+    "dinner/slow cooker",
+    "dinner/Simple Indian Curry.md",
+    "breakfast/Protein Crepes.md",
+    "Veggie Scramble and Toast.md",
+    "dinner/Penne Alla Vodka.md",
+    "dinner/Marry Me Chicken.md",
+    "dinner/Nutty Tortellini.md",
+    "dinner/Thai Basil Beef Stir Fry.md",
+    "dinner/Baked Gnocchi - Sausage Based.md",
+    "dinner/Baked Gnocchi - Broccoli Based.md",
+    "dinner/Marinara Chicken and Polenta.md",
+    "dinner/Scrambled Eggs and Fruit Salad.md",
+    "dinner/Sausage and Vegetable Medley.md",
+    "Untitled.canvas"
   ]
 }

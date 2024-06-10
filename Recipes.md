@@ -19,10 +19,14 @@
 12. [[Cajun Sausage Pasta]]
 13. [[Simple Indian Curry]]
 14. [[Chicken Burrito Bowl]]
-15. 
+15. [[Jambalaya]]
+16. 
 
 # Breakfast Recipes
 1. [[Protein Crepes]]
 2. [[Breakfast Casserole]]
 3. 
 
+# Slow Cooker Recipes
+1. [[Slow Cooker Chicken Thighs]]
+2. 
