@@ -20,7 +20,7 @@
 13. [[Simple Indian Curry]]
 14. [[Chicken Burrito Bowl]]
 15. [[Jambalaya]]
-16. 
+16. [[One-Pot Marry Me Sausage Pasta]]
 
 # Breakfast Recipes
 1. [[Protein Crepes]]

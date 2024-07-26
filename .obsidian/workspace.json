@@ -143,14 +143,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dinner/Baked Gnocchi - Broccoli Based.md",
+                "file": "Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44391751d5418f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dinner/One-Pot Marry Me Sausage Pasta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dinner/Baked Gnocchi - Broccoli Based.md",
+                "file": "dinner/One-Pot Marry Me Sausage Pasta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dinner/Baked Gnocchi - Broccoli Based.md",
+                "file": "dinner/One-Pot Marry Me Sausage Pasta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dinner/Baked Gnocchi - Broccoli Based.md"
+                "file": "dinner/One-Pot Marry Me Sausage Pasta.md"
               }
             }
           }
@@ -285,10 +297,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "373a3a1c732bd278",
+  "active": "44391751d5418f8f",
   "lastOpenFiles": [
-    "Untitled",
+    "dinner/Marry Me Chicken.md",
+    "dinner/One-Pot Marry Me Sausage Pasta.md",
     "Recipes.md",
+    "dinner/Baked Gnocchi - Broccoli Based.md",
+    "Untitled",
     "dinner/Bagel Pizza.md",
     "dinner/Jambalaya.md",
     "seasonings/Homemade Cajun 2 Step.md",
@@ -310,16 +325,13 @@
     "python/generate_menu.py",
     "python",
     "dinner/Beef Tenderloin and Grits.md",
-    "dinner/slow cooker",
     "dinner/Simple Indian Curry.md",
     "breakfast/Protein Crepes.md",
     "Veggie Scramble and Toast.md",
     "dinner/Penne Alla Vodka.md",
-    "dinner/Marry Me Chicken.md",
     "dinner/Nutty Tortellini.md",
     "dinner/Thai Basil Beef Stir Fry.md",
     "dinner/Baked Gnocchi - Sausage Based.md",
-    "dinner/Baked Gnocchi - Broccoli Based.md",
     "dinner/Marinara Chicken and Polenta.md",
     "dinner/Scrambled Eggs and Fruit Salad.md",
     "dinner/Sausage and Vegetable Medley.md",
